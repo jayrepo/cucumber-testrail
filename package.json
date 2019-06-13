@@ -1,0 +1,13 @@
+{
+  "name": "cucumber-testrail",
+  "version": "1.0.0",
+  "description": "Push cucumber test results to testrail",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "got": "^9.6.0"
+  }
+}
